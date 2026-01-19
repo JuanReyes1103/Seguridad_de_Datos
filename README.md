@@ -8,3 +8,5 @@
 - También indicó los **sistemas** que utilizaremos durante el semestre.
 - Para el **segundo parcial** debemos tener el **esp32 wifi**.
 - Explicó que es un **sniffer**, un script que escucha todo lo que el usuario real escriba
+- 25 de Febrero fecha de Primer Parcial
+- **CIA** Confidentiality, Integrity and Availability. 
