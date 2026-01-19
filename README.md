@@ -7,3 +7,4 @@
 - Comentó que para el **primer parcial** debemos tener el **Attiny85**.
 - También indicó los **sistemas** que utilizaremos durante el semestre.
 - Para el **segundo parcial** debemos tener el **esp32 wifi**.
+- Explicó que es un **sniffer**, un script que escucha todo lo que el usuario real escriba
