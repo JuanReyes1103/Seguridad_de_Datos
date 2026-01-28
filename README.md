@@ -88,4 +88,32 @@ Tipos de Hacker: -White hacker: Un hacker etico -Black hacker: Ciber delincuente
 Hacktivisun -Gov sponsorship -Svicidal Hackers
 
 Blue Team vs Red Team Purple did
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### 📅 26 de Enero de 2026
+
+Repaso de la clase pasada.
+
+- Los listeners devuelven una shell de super usuario, esto es porque no se tenían los mecanismos para comprobar.
+- Si entramos a la NVD veremos el **VSFTPD** y debe estar en el **2.3.4**.
+- 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
