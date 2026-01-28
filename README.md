@@ -65,3 +65,27 @@
 - Qué es el **Trouble Shooting**: Es el proceso sistemático de identificar, diagnosticar y corregir fallas, vulnerabilidades o incidencias que afectan la integridad, confidencialidad o disponibilidad de la información en sistemas, redes y aplicaciones. 
 
 
+
+Falso positivo Falso negativo
+
+Herramientas comunes: tenable, nessus } Herramientas comerciales Qualys, OpenVAS } Open Source
+
+NVD national vulnerability dataBase
+
+Vulnerabilidad Es donde hay una brecha donde el atacante puede usar un exploit
+
+Exploit: Un exploit es un programa, técnica o fragmento de código diseñado para aprovechar una vulnerabilidad en un sistema informático. Risk: El riesgo se define como la posibilidad de que ocurra un daño o perjuicio y sus posibles consecuencias.
+
+           Stride
+Son Firework{ Mittre
+
+Hacker: es Alguien que es capas de hacer que un sistema funcione de una forma para la cual no fue diseñana Motivaciones: Necesidades, ideología y/o el dinero
+
+Scrip Kiddle: Una persona que busca put and play
+
+Tipos de Hacker: -White hacker: Un hacker etico -Black hacker: Ciber delincuentes -Gray hacker: Sons los dos
+
+Hacktivisun -Gov sponsorship -Svicidal Hackers
+
+Blue Team vs Red Team Purple did
+
